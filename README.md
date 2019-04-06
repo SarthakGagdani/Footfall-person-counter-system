@@ -23,8 +23,10 @@ in our website using Test button.
 3)Now total footfall are counted using = total people entered - employees entered .
 This will give us the exact footfall count.
 
-4) To add new employee the is a button on our website Add Employee .
+4)To add new employee the is a button on our website Add Employee .
 This is a prototype we have not added Analytics which will be added in later stages.
+
+5)Database used is sqlite.Criminal is detected if the face matches with criminal database.
 
 # Installation Guide-
 Run Django project
