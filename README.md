@@ -4,7 +4,7 @@
 
 Note : It requires a fully functional webcam for operation.
 
-The Project has been hosted on the cloud infrastructure
+The Project has been hosted on the cloud infrastructure but due to errors it is not functioning properly
 
 
 The Project code is also hosted on github :- https://github.com/SarthakGagdani/Footfall-person-
@@ -34,3 +34,5 @@ Run Django project
 Go to the root directory
 
 Run command:-  python manage.py runserver 
+
+Screenshots are added above in files.
